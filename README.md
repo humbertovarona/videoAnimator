@@ -1,4 +1,4 @@
-# cvideoAnimator
+# videoAnimator
 
 # Version
 
